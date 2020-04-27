@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "625426551478",
+    "firebase_url": "https://food-leh.firebaseio.com",
+    "project_id": "food-leh",
+    "storage_bucket": "food-leh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625426551478:android:13eb7ee233d5ad3e574c17",
+        "android_client_info": {
+          "package_name": "com.food.leh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625426551478-v7n5go2p7k58ajp5rrielbup8f2omujv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMvtTwVaRBTWxoGn7shBiHH-aAlKxz260"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625426551478-v7n5go2p7k58ajp5rrielbup8f2omujv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
